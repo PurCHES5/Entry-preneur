@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "787641017335",
+    "project_id": "enter-preneur-adfd5",
+    "storage_bucket": "enter-preneur-adfd5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:787641017335:android:f4ca3230482121ce9144f2",
+        "android_client_info": {
+          "package_name": "com.PurCHES5.enterpreneur"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "787641017335-9klgnndu5dq84lt9veu325iao304941h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvv3dmdgsKOvFSNcZxkBfl28wZqJL2WQQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "787641017335-9klgnndu5dq84lt9veu325iao304941h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
